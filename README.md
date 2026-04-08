@@ -1,10 +1,14 @@
-# Payload Ecommerce Template
+# Payload CMS Server (e-commerce template)
 
-This template is in **BETA**.
+> Testing the Payload CMS server with the e-commerce template
+>
+> This project uses the [PNPM](https://pnpm.io/) ([GitHub repository](https://github.com/pnpm/pnpm))
 
 This is the official [Payload Ecommerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready ecommerce website.
 
-This template is right for you if you are working on building an ecommerce project or shop with Payload.
+- This template is in **BETA**.
+
+- This template is right for you if you are working on building an ecommerce project or shop with Payload.
 
 Core features:
 
@@ -39,17 +43,20 @@ If you have not done so already, you need to have standalone copy of this repo o
 Use the `create-payload-app` CLI to clone this template directly to your machine:
 
 ```bash
-pnpx create-payload-app my-project -t ecommerce
+pnpx create-payload-app payloadcms-server -t ecommerce
 ```
 
 ### Development
 
 1. First [clone the repo](#clone) if you have not done so already
-1. `cd my-project && cp .env.example .env` to copy the example environment variables
+1. `cd payloadcms-server && cp .env.example .env` to copy the example environment variables
+1. `docker compose up -d mongo` to run a local MongoDB instance
 1. `pnpm install && pnpm dev` to install dependencies and start the dev server
 1. open `http://localhost:3000` to open the app in your browser
 
 That's it! Changes made in `./src` will be reflected in your app. Follow the on-screen instructions to login and create your first admin user. Then check out [Production](#production) once you're ready to build and serve your app, and [Deployment](#deployment) when you're ready to go live.
+
+**Note:** on the first run, you'll need to define an admin user for the admin dashboard (Payload CMS).
 
 ## How it works
 
@@ -241,6 +248,7 @@ This template includes a beautifully designed, production-ready front-end built 
 
 Core features:
 
+- [PNPM](https://pnpm.io/)
 - [Next.js App Router](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [React Hook Form](https://react-hook-form.com)
