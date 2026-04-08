@@ -1,7 +1,7 @@
 {
   "name": "payloadcms-server",
   "version": "1.0.0",
-  "description": "Ecommerce template for Payload",
+  "description": "Testing the Payload CMS server with the e-commerce template",
   "license": "MIT",
   "type": "module",
   "scripts": {
