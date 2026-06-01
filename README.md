@@ -392,3 +392,32 @@ You can also deploy your app manually, check out the [deployment documentation](
 ## Questions
 
 If you have any issues or questions, reach out to us on [Discord](https://discord.com/invite/payload) or start a [GitHub discussion](https://github.com/payloadcms/payload/discussions).
+
+## Useful references
+
+- [[Gist] Payload CMS v3 Auto-Refresh System](https://gist.github.com/elghaied/55c8674f5c1977d7eeed2b3d513e7175)
+
+- [Payload CMS Guide 2026: Setup, APIs & Deploy | TECHSY](https://techsy.io/en/blog/payload-cms-guide) (2026/05/12)
+
+- [Payload Market — Discover Plugins for Payload CMS](https://payload.market/)
+  - [Payload Import Export Plugin | Payload Plugin](https://payloadplugins.dev/payloadcms-plugin-import-export/)
+
+- [Payload CMS Multi-Tenant Guide for Production Apps | Build with Matija](https://www.buildwithmatija.com/series/multi-tenant-payload-nextjs)
+
+- [Payload Async Hooks: Avoid the Transaction Trap - 3 Fixes | Build with Matija](https://www.buildwithmatija.com/blog/payload-async-hooks-transaction-trap)
+
+- [Payload CMS Admin UI Components: Complete Glossary | Build with Matija](https://www.buildwithmatija.com/blog/payload-admin-ui-components-glossary-v3-6)
+
+- [Payload CMS Admin UI: Custom Components with @payloadcms/ui | Build with Matija](https://www.buildwithmatija.com/blog/payload-cms-custom-admin-ui-components-guide)
+
+- [How to Seed Payload CMS with CSV Files: A Complete Guide | Build with Matija](https://www.buildwithmatija.com/blog/seed-payload-cms-csv-files)
+
+- [Build Payload CMS Custom Array Fields: Spreadsheet UI | Build with Matija](https://www.buildwithmatija.com/blog/payload-cms-custom-array-fields-table-ui)
+
+- [Payload CMS Jobs Queue: Complete Production Guide | Build with Matija](https://www.buildwithmatija.com/series/payload-cms-jobs-queue)
+  - [Payload CMS Logging: Queue-Based Production Best Practices | Build with Matija](https://www.buildwithmatija.com/blog/payload-cms-logging-queue-based-production-best-practices)
+
+  - [How to Build a CSV Product Import System with Payload Queues | Build with Matija](https://www.buildwithmatija.com/blog/bulk-data-import-with-payload-queues)
+
+- [[GitHub] shaadcode/payload-auditor](https://github.com/shaadcode/payload-auditor) - Payload CMS plugin for event tracking, auditing, and security. Monitor activities and analyze user behavior.
+  - [Tracking and Security in Payload CMS with the Payload-Auditor Plugin | DEV Community](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
