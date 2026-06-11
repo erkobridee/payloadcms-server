@@ -422,4 +422,6 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 - [[GitHub] shaadcode/payload-auditor](https://github.com/shaadcode/payload-auditor) - Payload CMS plugin for event tracking, auditing, and security. Monitor activities and analyze user behavior.
   - [Tracking and Security in Payload CMS with the Payload-Auditor Plugin | DEV Community](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
 
-- [Define a custom design system for payload cms | Perplexity.ai](https://www.perplexity.ai/search/define-a-custom-design-system-Q2ttLCZXTWCLgTSckcURdw)
+- [Define a custom design system for PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/define-a-custom-design-system-Q2ttLCZXTWCLgTSckcURdw)
+
+- [How to use shadcn/ui on PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-use-shadcn-ui-on-payloa-c.s1_TNjTlaipzEKpoviHg)
