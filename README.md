@@ -425,3 +425,10 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 - [Define a custom design system for PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/define-a-custom-design-system-Q2ttLCZXTWCLgTSckcURdw)
 
 - [How to use shadcn/ui on PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-use-shadcn-ui-on-payloa-c.s1_TNjTlaipzEKpoviHg)
+
+- [How to setup Tailwind CSS and shadcn/ui in Payload | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-setup-tailwindcss-and-shadcn-ui-in-payload)
+  - [[GitHub] payloadcms/payload/examples/tailwind-shadcn-ui](https://github.com/payloadcms/payload/tree/main/examples/tailwind-shadcn-ui)
+
+- [How to theme the Payload admin panel with Tailwind CSS 4 | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-theme-the-payload-admin-panel-with-tailwind-css-4)
+
+- [payload - Agent Skill by payloadcms | SkillsMP](https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md)
