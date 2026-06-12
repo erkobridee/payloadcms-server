@@ -414,13 +414,19 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [Build Payload CMS Custom Array Fields: Spreadsheet UI | Build with Matija](https://www.buildwithmatija.com/blog/payload-cms-custom-array-fields-table-ui)
 
+- [[GitHub] shaadcode/payload-auditor](https://github.com/shaadcode/payload-auditor) - Payload CMS plugin for event tracking, auditing, and security. Monitor activities and analyze user behavior.
+  - [Tracking and Security in Payload CMS with the Payload-Auditor Plugin | DEV Community](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
+
 - [Payload CMS Jobs Queue: Complete Production Guide | Build with Matija](https://www.buildwithmatija.com/series/payload-cms-jobs-queue)
   - [Payload CMS Logging: Queue-Based Production Best Practices | Build with Matija](https://www.buildwithmatija.com/blog/payload-cms-logging-queue-based-production-best-practices)
 
   - [How to Build a CSV Product Import System with Payload Queues | Build with Matija](https://www.buildwithmatija.com/blog/bulk-data-import-with-payload-queues)
 
-- [[GitHub] shaadcode/payload-auditor](https://github.com/shaadcode/payload-auditor) - Payload CMS plugin for event tracking, auditing, and security. Monitor activities and analyze user behavior.
-  - [Tracking and Security in Payload CMS with the Payload-Auditor Plugin | DEV Community](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
+### AI - Agent skills
+
+- [payload - Agent Skill by payloadcms | SkillsMP](https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md)
+
+### Custom layout
 
 - [Define a custom design system for PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/define-a-custom-design-system-Q2ttLCZXTWCLgTSckcURdw)
 
@@ -431,4 +437,8 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [How to theme the Payload admin panel with Tailwind CSS 4 | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-theme-the-payload-admin-panel-with-tailwind-css-4)
 
-- [payload - Agent Skill by payloadcms | SkillsMP](https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md)
+### Extends
+
+- [Build a documentation section inside of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-a-documentation-section-rE3191PeRdqM6VjGAP8a0g)
+
+- [How to define a docs section inside the admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-define-a-docs-section-i-jVcj909iQIyoRep2WEy0WA)
