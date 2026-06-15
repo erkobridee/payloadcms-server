@@ -422,6 +422,8 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
   - [How to Build a CSV Product Import System with Payload Queues | Build with Matija](https://www.buildwithmatija.com/blog/bulk-data-import-with-payload-queues)
 
+- [Converting Markdown | Documentation - Payload](https://payloadcms.com/docs/rich-text/converting-markdown)
+
 ### AI - Agent skills
 
 - [payload - Agent Skill by payloadcms | SkillsMP](https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md)
@@ -437,8 +439,15 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [How to theme the Payload admin panel with Tailwind CSS 4 | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-theme-the-payload-admin-panel-with-tailwind-css-4)
 
+### Documentation
+
+- [[GitHub] payloadcms/website](https://github.com/payloadcms/website) - The official Next.js website for payloadcms.com
+  - [src/app/(frontend)/(pages)/docs](<https://github.com/payloadcms/website/tree/main/src/app/(frontend)/(pages)/docs>)
+
 ### Extends
 
 - [Build a documentation section inside of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-a-documentation-section-rE3191PeRdqM6VjGAP8a0g)
 
 - [How to define a docs section inside the admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-define-a-docs-section-i-jVcj909iQIyoRep2WEy0WA)
+
+- [Build documenation section inside admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-documenation-section-ins-pO_2ZZK0StCFj20Bc8fwRg)
