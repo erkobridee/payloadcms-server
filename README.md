@@ -395,6 +395,8 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 ## Useful references
 
+- [Payload 4.0: Admin UI Redesign, TanStack, MCP, and More | Payload CMS Blog](https://payloadcms.com/posts/blog/payload-40-admin-ui-redesign-tanstack-mcp-and-more) (2026/06/09)
+
 - [[Gist] Payload CMS v3 Auto-Refresh System](https://gist.github.com/elghaied/55c8674f5c1977d7eeed2b3d513e7175)
 
 - [Payload CMS Guide 2026: Setup, APIs & Deploy | TECHSY](https://techsy.io/en/blog/payload-cms-guide) (2026/05/12)
