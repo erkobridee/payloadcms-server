@@ -453,3 +453,13 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 - [How to define a docs section inside the admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-define-a-docs-section-i-jVcj909iQIyoRep2WEy0WA)
 
 - [Build documenation section inside admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-documenation-section-ins-pO_2ZZK0StCFj20Bc8fwRg)
+
+### Plugins
+
+- [Import Export Plugin | Documentation - Payload](https://payloadcms.com/docs/plugins/import-export)
+
+- [Nested Docs Plugin | Documentation - Payload](https://payloadcms.com/docs/plugins/nested-docs)
+
+- [Ecommerce Plugin | Documentation - Payload](https://payloadcms.com/docs/ecommerce/plugin)
+
+- [Sentry Plugin | Documentation - Payload](https://payloadcms.com/docs/plugins/sentry)
