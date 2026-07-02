@@ -12,6 +12,11 @@ const NEXT_PUBLIC_SERVER_URL = process.env.NEXT_PUBLIC_SERVER_URL || 'http://loc
 const isDevelopment = 'production' !== `${process.env.NODE_ENV}`
 
 const nextConfig: NextConfig = {
+  // https://nextjs.org/docs/app/api-reference/config/next-config-js/devIndicators
+  devIndicators: {
+    position: 'bottom-right',
+  },
+
   images: {
     dangerouslyAllowLocalIP: isDevelopment,
 
