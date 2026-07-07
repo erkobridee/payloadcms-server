@@ -441,6 +441,8 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [How to theme the Payload admin panel with Tailwind CSS 4 | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-theme-the-payload-admin-panel-with-tailwind-css-4)
 
+- [[GitHub]](https://github.com/payloadcms/payload-tanstack-demo) - Simplified Payload website template using Tanstack
+
 ### Documentation
 
 - [[GitHub] payloadcms/website](https://github.com/payloadcms/website) - The official Next.js website for payloadcms.com
@@ -452,7 +454,7 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [How to define a docs section inside the admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/how-to-define-a-docs-section-i-jVcj909iQIyoRep2WEy0WA)
 
-- [Build documenation section inside admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-documenation-section-ins-pO_2ZZK0StCFj20Bc8fwRg)
+- [Build documentation section inside admin area of PayloadCMS | Perplexity.ai](https://www.perplexity.ai/search/build-documenation-section-ins-pO_2ZZK0StCFj20Bc8fwRg)
 
 ### Plugins
 
@@ -463,3 +465,12 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 - [Ecommerce Plugin | Documentation - Payload](https://payloadcms.com/docs/ecommerce/plugin)
 
 - [Sentry Plugin | Documentation - Payload](https://payloadcms.com/docs/plugins/sentry)
+
+### Sidebar
+
+- [[GitHub] VeiaG/payload-enhanced-sidebar](https://github.com/VeiaG/payload-enhanced-sidebar) - An enhanced sidebar plugin for Payload CMS that adds a tabbed navigation system to organize collections and globals into logical groups.
+  - [Enhanced Sidebar Plugin](https://payload.veiag.dev/docs/plugins/payload-enhanced-sidebar)
+
+- [[GitHub] Mhmod-Hsn/Payload-Advanced-Sidebar](https://github.com/Mhmod-Hsn/Payload-Advanced-Sidebar) - A Payload CMS 3.0 plugin that gives you complete control over your admin sidebar navigation. Organize collections and globals into custom groups, add custom icons, and hide specific items with ease.
+
+- [[GitHub] tatsuyakari1203/payload-sidebar](https://github.com/tatsuyakari1203/payload-sidebar) - Sortable navigation sidebar with pinning and multi-color badge support for Payload CMS 3.x
