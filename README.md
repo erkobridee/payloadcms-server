@@ -446,8 +446,7 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
   - [[GitHub] payloadcms/payload/examples/tailwind-shadcn-ui](https://github.com/payloadcms/payload/tree/main/examples/tailwind-shadcn-ui)
 
 - [How to theme the Payload admin panel with Tailwind CSS 4 | PayloadCMS Blog](https://payloadcms.com/posts/guides/how-to-theme-the-payload-admin-panel-with-tailwind-css-4)
-
-- [[GitHub]](https://github.com/payloadcms/payload-tanstack-demo) - Simplified Payload website template using Tanstack
+  - [[GitHub]](https://github.com/payloadcms/payload-tanstack-demo) - Simplified Payload website template using Tanstack
 
 ### Documentation
 
