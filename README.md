@@ -426,6 +426,12 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 
 - [Converting Markdown | Documentation - Payload](https://payloadcms.com/docs/rich-text/converting-markdown)
 
+- [Join Field | Documentation - Payload](https://payloadcms.com/docs/fields/join)
+  - [[GitHub] payloadcms/ordered-join](https://github.com/payloadcms/ordered-join) - An experiment where we define a workflow for ordered / instantly editable joins
+    - [category relationship at Posts collection](https://github.com/payloadcms/ordered-join/blob/main/src/collections/Posts.ts#L15)
+
+    - [joing with the related posts at Categories collection](https://github.com/payloadcms/ordered-join/blob/main/src/collections/Categories.ts#L147)
+
 ### AI - Agent skills
 
 - [payload - Agent Skill by payloadcms | SkillsMP](https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md)
